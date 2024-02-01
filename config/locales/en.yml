@@ -30,4 +30,6 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  time:
+    formats:
+      datetime_jp: "%Y年 %m月 %d日 %H時 %M分"
